@@ -1,0 +1,9 @@
+HTTPS (Hypertext Transfer Protocol Secure) is a protocol used for secure communication over the internet. It is an extension of the HTTP protocol, which is the foundation of data communication on the World Wide Web. The "S" in HTTPS stands for "Secure," indicating that the communication between the user's web browser and the web server is encrypted and secured.
+
+SSL (Secure Sockets Layer) was the original technology used to establish secure connections between a web browser and a web server. It provided encryption and authentication mechanisms to ensure that data transmitted between the two parties remained confidential and tamper-proof.
+
+However, SSL has been largely replaced by its successor, TLS (Transport Layer Security), which is a more advanced and secure protocol. TLS performs the same functions as SSL but with improved security features. The term "HTTPS" is now commonly used to refer to the combination of HTTP and TLS or SSL, depending on the version of the protocol being used.
+
+When you visit a website using HTTPS, the data exchanged between your browser and the web server is encrypted, making it much more difficult for unauthorized parties to intercept or manipulate the information. This is particularly important for sensitive activities like online banking, e-commerce transactions, and sharing personal information online.
+
+In summary, HTTPS (HTTP Secure) is a way of using encryption and authentication mechanisms, such as SSL or TLS, to ensure secure communication between a user's web browser and a web server, protecting the integrity and privacy of the data being transmitted.
