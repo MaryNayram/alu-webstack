@@ -35,7 +35,7 @@ defaults
         option forwardfor
         option http-server-close
 
-frontend besthor_front_end
+frontend www-https
     bind *:80
     bind *:443 ssl crt //etc/letsencrypt/live/www.nayram.tech/fullchain.pem
 
